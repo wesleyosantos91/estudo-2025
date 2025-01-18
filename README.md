@@ -1,6 +1,6 @@
 # Plano de Estudos 📚
 
-Este plano foi elaborado para cobrir fundamentos e tópicos avançados em Cloud Computing, Desenvolvimento Backend, Arquitetura de Sistemas, Estruturas de Dados e outros domínios importantes para um engenheiro de software de alto nível. 
+Este plano foi elaborado para cobrir fundamentos e tópicos avançados em Cloud Computing, Desenvolvimento Backend, Arquitetura de Sistemas, Estruturas de Dados e outros domínios importantes para um engenheiro de software de alto nível.
 
 ---
 
@@ -31,7 +31,10 @@ Este plano foi elaborado para cobrir fundamentos e tópicos avançados em Cloud 
 - [ ] **Well-Architected Framework:**  
   - [ ] Estudo dos cinco pilares: segurança, confiabilidade, custo, desempenho, excelência operacional.  
 - [ ] **Landing Zones:**  
-  - [ ] Estrutura, boas práticas e implementação.
+  - [ ] Estrutura, boas práticas e implementação.  
+- [ ] **CloudFormation e Terraform:**  
+  - [ ] Infraestrutura como código com AWS.  
+  - [ ] Boas práticas e modularização.  
 
 ---
 
@@ -89,6 +92,10 @@ Este plano foi elaborado para cobrir fundamentos e tópicos avançados em Cloud 
 - [ ] **EDA (Event-Driven Architecture):**  
   - [ ] Padrões de comunicação assíncrona e exemplos práticos.
 
+### **3.6. Observabilidade Avançada**
+- [ ] Tracing distribuído com OpenTelemetry.  
+- [ ] Criação de dashboards personalizados no Grafana.  
+
 ---
 
 ## **4. Estruturas de Dados e Algoritmos**
@@ -120,6 +127,16 @@ Este plano foi elaborado para cobrir fundamentos e tópicos avançados em Cloud 
 - [ ] **MVC, MVVM, MVP, Elm Architecture, BLoC.**  
 - [ ] **Atomic Design:** Componentização eficiente.  
 
+### **5.3. Aplicabilidade com Angular (versão 18)**
+- [ ] Criação de aplicações seguindo o padrão MVC.  
+- [ ] Implementação de **Atomic Design** com Angular Components.  
+- [ ] Aplicação de **Reactive Forms** para validações.  
+- [ ] Boas práticas de estrutura de módulos e lazy loading.  
+- [ ] Gerenciamento de estado com **NgRx**.  
+- [ ] Testes unitários e de integração utilizando **Jasmine** e **Karma**.  
+- [ ] Configuração de **SSR (Server-Side Rendering)** com Angular Universal.  
+- [ ] Explorar novas funcionalidades e melhorias introduzidas na versão 18 do Angular.
+
 ---
 
 ## **6. Bancos de Dados e Integração**
@@ -132,6 +149,10 @@ Este plano foi elaborado para cobrir fundamentos e tópicos avançados em Cloud 
 
 ### **6.3. Teoremas e Estratégias**
 - [ ] **CAP e PIE:** Aplicação prática em sistemas distribuídos.  
+
+### **6.4. PostgreSQL**
+- [ ] Boas práticas para índices e otimização de queries.  
+- [ ] Replicação e failover automático.  
 
 ---
 
@@ -166,6 +187,8 @@ Este plano foi elaborado para cobrir fundamentos e tópicos avançados em Cloud 
   - [ ] Comparação entre Data Warehouse, Data Lake, Data Lakehouse.  
 - [ ] **Data Mesh e Data Fabric:**  
   - [ ] Exploração e aplicações práticas.  
+- [ ] **BigQuery:**  
+  - [ ] Explorar conceitos e práticas avançadas para análises em larga escala.  
 
 ---
 
@@ -173,3 +196,5 @@ Este plano foi elaborado para cobrir fundamentos e tópicos avançados em Cloud 
 - [ ] **Design Docs:**  
   - [ ] Boas práticas para redação de documentos técnicos.  
   - [ ] Criação de requisitos claros e objetivos.  
+- [ ] **ADR (Arquitetural Decision Records):**  
+  - [ ] Registro e comunicação de decisões arquiteturais.  
